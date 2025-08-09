@@ -11,9 +11,9 @@ Includes **time-series analysis**, **geo-mapping**, and **country-level comparis
 - **Dynamic Titles** and conditional formatting for user interactivity
 
 ## 📂 Files in This Repo
--Power BI report file
-- Dataset used for visualizations
-- Dashboard screenshots
+  -Power BI report file
+  - Dataset used for visualizations
+  - Dashboard screenshots
 
 
 ## 📊 Dataset Source
